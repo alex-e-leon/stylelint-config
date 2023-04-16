@@ -1,6 +1,6 @@
 {
   "name": "@alex-e-leon/stylelint-config",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "personalised stylelint configs",
   "repository": "alex-e-leon/stylelint-config",
   "author": "alex leon <alex@leon.st>",
