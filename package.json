@@ -9,15 +9,15 @@
     "test": "stylelint test --config index.json"
   },
   "dependencies": {
-    "stylelint-config-standard": "^34.0.0",
-    "stylelint-prettier": "^4.0.2"
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-prettier": "^5.0.0"
   },
   "peerDependencies": {
     "prettier": "^3.0.3",
-    "stylelint": "^15.5.0"
+    "stylelint": "^16.6.1"
   },
   "devDependencies": {
     "prettier": "^3.0.3",
-    "stylelint": "^15.5.0"
+    "stylelint": "^16.6.1"
   }
 }
