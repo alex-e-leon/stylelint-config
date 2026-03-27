@@ -13,8 +13,8 @@
     "stylelint-prettier": "^5.0.0"
   },
   "peerDependencies": {
-    "prettier": "^3.0.3",
-    "stylelint": "^16.6.1"
+    "prettier": "=>3.0.3",
+    "stylelint": ">=16.6.1"
   },
   "devDependencies": {
     "prettier": "^3.0.3",
